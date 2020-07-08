@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleIntent</string>
+    <string name="main_activity">MainActivity</string>
+    <string name="sub_activity">SubActivity</string>
+    <string name="main_button">Go</string>
+    <string name="sub_button">Back</string>
+</resources>
